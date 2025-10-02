@@ -43,6 +43,10 @@
       <IsMain>false</IsMain>
       <Path>Data\Config.xlsx</Path>
     </ProjectFileItem>
+    <ProjectFileItem z:Id="i12">
+      <IsMain>false</IsMain>
+      <Path>consumo_api.pix</Path>
+    </ProjectFileItem>
   </Files>
   <MasterUploadId i:nil="true" />
   <Name>prueba</Name>
